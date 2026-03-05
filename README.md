@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Operaciones de Aprendizaje Automático I
+# Operaciones de Aprendizaje Automático II
 Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Operaciones de Aprendizaje Automático II (CEIA - FIUBA). 
 
 Para revisar los criterios de aprobación, ver el [documento correspondiente](CriteriosAprobacion.md).
