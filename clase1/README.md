@@ -14,5 +14,5 @@
 * Implementación de REST APIs en Python
 
 
-## [Práctica](/pracica/API_MLOPS2.ipynb/)
+## [Práctica](/Practica/API_MLOPS2.ipynb/)
 * Creación y uso de REST APIs con Python
