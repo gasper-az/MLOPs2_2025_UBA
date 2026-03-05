@@ -1,12 +1,12 @@
 # Clase 1
 
-## [Teoría](teoria/MLOPS2-Intro.pdf)
+## [Teoría](Teoria/MLOPS2-Intro.pdf)
 
 * Introducción a la Materia
 * Contenidos y evaluaciones
 * Presentaciones
 
-## [Teoría](teoria/clase1.pdf) 
+## [Teoría](Teoria/clase1.pdf) 
 * Despliegue de modelos
 * Desplegado on-line
 * APIs y Microservicios
