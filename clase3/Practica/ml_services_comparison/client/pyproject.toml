@@ -1,0 +1,25 @@
+[project]
+name = "client"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Gaspar Acevedo",email = "acevedo.zain.gaspar@gmail.com"}
+]
+readme = "README.md"
+dependencies = [
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+grpcio = "^1.50.0"
+grpcio-tools = "^1.50.0"
+requests = "^2.30.0"
+httpx = "^0.24.0"
+numpy = "^1.23.0" # ¡Añadido!
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
